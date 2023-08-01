@@ -119,3 +119,89 @@ header{
 .more-feature img{
     margin-top: 86px;
 }
+.deal{
+    background-color: #FDF6F8;
+    display: flex;
+    padding: 0px 230px;
+    margin-bottom: 130px;
+}
+.deal-title{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    margin: 230px 215px 24px 150px;
+}
+#off{
+    color: #E55473;
+}
+.deal-des{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: center;
+    width: 595px;
+    margin: 0px 185px 32px 120px;
+}
+.deal-btn{
+    margin: 0px 30px 160px 340px;
+}
+.deal-img{
+    margin: 100px 0px 100px 40px;
+}
+.instagram{
+    margin: 0px 240px 130px 240px;
+}
+.insta-title{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    text-align: center;
+}
+.insta-des{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: center;
+    width: 595px;
+    margin: 25px 0px 50px 415px;
+}
+.instagram ul{
+    display: flex;
+    justify-content: space-between;
+}
+.instagram ul li{
+    list-style-type: none;
+}
+.latest-deal{
+    background-image: url('Flower Asset/Rectangle 9.png');
+    margin-top: 130px;
+}
+.latest-title{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    text-align: center;
+    padding-top: 120px;
+}
+.latest-des{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: center;
+    margin-top: 15px;
+}
+.instagram input{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 16px;
+    font-weight: 400;
+    border: 0;
+    border-radius: 5px;
+    padding: 22px 510px 22px 22px;
+    margin: 50px 15px 120px 285px;
+}
+.sub-btn{
+    padding: 18px 30px;
+}
